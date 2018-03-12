@@ -1,0 +1,12 @@
+nom,nom scientifique,nb individu,type d’aliment,secteur,,Problème
+Canard de Meller,,16,granivore,Secteur 3,,nom scientifique manquant 
+Ibis chauve , piscivore,15, Geronticus eremita,Secteur 3,,nom scientifique et alimentation intervertis 
+Papangue,,8,frugivvore,Secteur 19,,nom scientifique manquant / frugivvore «v» en trop  ?
+,,11,herbivores,Secteur 20,,nom et nom scientifique manquants
+    Cerf de Java,,50,herbivores,Secteur 6,,nom scientifique manquant
+    Chinchilla , espèces sauvages,11,granivore,Secteur 9,,nom scientifique semble incorrecte 
+    Lamantin ," Trichechus inunguis, T. manatus",24,frugivore,Secteur 18,'colonnes décalées, nom scientifique semble deborder sur deux colonnes'
+    Roussette noire,,6,piscivore,Secteur 2,,nom scientifique manquant
+    Souris marsupiale ," Sminthopsis longicaudata, S. psammophila",15,herbivores,Secteur 5,'colonnes décalées, nom scientifique semble deborder sur deux colonnes'
+,,,,,,
+,,,'Problème d’écriture : certains types sont au singulier, d’autres au pluriel.',,,
